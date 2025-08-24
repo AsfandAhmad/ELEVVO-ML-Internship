@@ -1,0 +1,67 @@
+# Ignore datasets
+data/
+outputs/
+
+# Ignore Python virtual env
+.venv/
+
+# Ignore cache and logs
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.h5
+.DS_Store
+# Ignore datasets
+data/
+outputs/
+
+# Ignore Python virtual env
+.venv/
+
+# Ignore cache and logs
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.h5
+.DS_Store
+# Ignore datasets
+data/
+outputs/
+
+# Ignore Python virtual env
+.venv/
+
+# Ignore cache and logs
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.h5
+.DS_Store
+# Ignore datasets
+data/
+outputs/
+
+# Ignore virtual environment
+.venv/
+
+# Ignore Python junk
+__pycache__/
+*.pyc
+*.pyo
+*.log
+# Ignore datasets
+data/
+outputs/
+
+# Ignore virtual environment
+.venv/
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore logs
+*.log
