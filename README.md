@@ -1,8 +1,3 @@
-Perfect 👍 thanks for clarifying.
-Here’s the **final single README** with **all 5 projects** included and their **run commands** so anyone can directly execute them.
-
----
-
 # 🚀 ELEVVO ML Internship Projects
 
 This repository contains **5 Machine Learning projects** covering regression, recommendation systems, clustering, deep learning, and tree-based models.
@@ -132,7 +127,3 @@ pip install -r requirements.txt
 ---
 
 ✨ This repo demonstrates a **wide range of ML techniques**, from simple regressions to deep learning and recommendation systems.
-
----
-
-Do you also want me to add a **"Quick Start" section** (train → evaluate → predict for all projects in one go) so new users can test everything quickly?
